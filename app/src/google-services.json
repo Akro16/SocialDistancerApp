@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904336801531",
+    "firebase_url": "https://social-distancer-f8d22-default-rtdb.firebaseio.com",
+    "project_id": "social-distancer-f8d22",
+    "storage_bucket": "social-distancer-f8d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904336801531:android:c99a6bdd567fc0405e7a5e",
+        "android_client_info": {
+          "package_name": "com.akro.social_distancer_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904336801531-0s58oq9k5ei5n18aja7tpv7jvtakpsh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akro.social_distancer_shop",
+            "certificate_hash": "af6b7e15cdbc7455434198e45d1e64b7fdf7078c"
+          }
+        },
+        {
+          "client_id": "904336801531-6h2eqfc9ocnmc6r9cb7o3p89hj55lga1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbH5xs2Lg3bVFNqCwSNOR8fCkzIA1NfCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904336801531-6h2eqfc9ocnmc6r9cb7o3p89hj55lga1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
